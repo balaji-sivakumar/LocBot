@@ -14,7 +14,7 @@ server.listen(process.env.port || process.env.PORT || 3978, function () {
    console.log('%s listening to %s', server.name, server.url); 
 });
 var MICROSOFT_APP_ID = '61a5b5f7-7633-41b0-b28c-0558da4c6175';//process.env.MICROSOFT_APP_ID;
-var MICROSOFT_APP_PASSWORD = 'pYykopp8pTVQToKppDXwYZQ';//process.env.MICROSOFT_APP_PASSWORD;
+var MICROSOFT_APP_PASSWORD = 'qcuqDQBGJ8441)rejZL3*+{';//process.env.MICROSOFT_APP_PASSWORD;
 var LUIS_MODEL_URL='https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/381e1f22-8676-4228-bd17-e94917120526?subscription-key=fbd6c82bc4f149eeba4a1ae5d5ffde60&timezoneOffset=0&verbose=true&q=';//process.env.LUIS_MODEL_URL;
 
 // Create chat connector for communicating with the Bot Framework Service
